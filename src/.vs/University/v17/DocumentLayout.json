@@ -1,0 +1,1487 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D92B782-1580-4DC5-9370-740A07EAA3AE}|University.Tests\\University.Tests.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.tests\\studentstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D92B782-1580-4DC5-9370-740A07EAA3AE}|University.Tests\\University.Tests.csproj|solutionrelative:university.tests\\studentstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D92B782-1580-4DC5-9370-740A07EAA3AE}|University.Tests\\University.Tests.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.tests\\athleticsfacilitytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D92B782-1580-4DC5-9370-740A07EAA3AE}|University.Tests\\University.Tests.csproj|solutionrelative:university.tests\\athleticsfacilitytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D92B782-1580-4DC5-9370-740A07EAA3AE}|University.Tests\\University.Tests.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.tests\\studentorganizationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D92B782-1580-4DC5-9370-740A07EAA3AE}|University.Tests\\University.Tests.csproj|solutionrelative:university.tests\\studentorganizationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D92B782-1580-4DC5-9370-740A07EAA3AE}|University.Tests\\University.Tests.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.tests\\examtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D92B782-1580-4DC5-9370-740A07EAA3AE}|University.Tests\\University.Tests.csproj|solutionrelative:university.tests\\examtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\addathleticsfacilityviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\addathleticsfacilityviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\addexamviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\addexamviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\addstudentorganizationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\addstudentorganizationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5A984E-F5CD-44F1-9801-257DA744E1B6}|University.Models\\University.Models.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5A984E-F5CD-44F1-9801-257DA744E1B6}|University.Models\\University.Models.csproj|solutionrelative:university.models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5A984E-F5CD-44F1-9801-257DA744E1B6}|University.Models\\University.Models.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.models\\studentorganization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5A984E-F5CD-44F1-9801-257DA744E1B6}|University.Models\\University.Models.csproj|solutionrelative:university.models\\studentorganization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\editathleticsfacilitysviewmodels .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\editathleticsfacilitysviewmodels .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5A984E-F5CD-44F1-9801-257DA744E1B6}|University.Models\\University.Models.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.models\\athleticsfacility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5A984E-F5CD-44F1-9801-257DA744E1B6}|University.Models\\University.Models.csproj|solutionrelative:university.models\\athleticsfacility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\athleticsfacilityview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\athleticsfacilityview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\editathleticsfacilityview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\editathleticsfacilityview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\addathleticsfacilityview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\addathleticsfacilityview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5A984E-F5CD-44F1-9801-257DA744E1B6}|University.Models\\University.Models.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5A984E-F5CD-44F1-9801-257DA744E1B6}|University.Models\\University.Models.csproj|solutionrelative:university.models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\studentsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\studentsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\studentorganizationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\studentorganizationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\sharedresources.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\sharedresources.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\searchview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\searchview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\examview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\examview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\editexamview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\editexamview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\datatemplates.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\datatemplates.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\addsubjectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\addsubjectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\addstudentview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\addstudentview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\addstudentorganizationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\addstudentorganizationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\addexamview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\addexamview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\editstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\editstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\editstudentview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\editstudentview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\editsubjectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\editsubjectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\studentsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\studentsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\editstudentorganizationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\editstudentorganizationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\athleticsfacilitysviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\athleticsfacilitysviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\examviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\examviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E400C52-9B72-4C4D-A286-A107DDB01B0F}|University.Data\\University.Data.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.data\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E400C52-9B72-4C4D-A286-A107DDB01B0F}|University.Data\\University.Data.csproj|solutionrelative:university.data\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5A984E-F5CD-44F1-9801-257DA744E1B6}|University.Models\\University.Models.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5A984E-F5CD-44F1-9801-257DA744E1B6}|University.Models\\University.Models.csproj|solutionrelative:university.models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5219E68-189C-41FB-9808-494838E39C44}|University.Main\\University.Main.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.main\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5219E68-189C-41FB-9808-494838E39C44}|University.Main\\University.Main.csproj|solutionrelative:university.main\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\studentorganizationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\studentorganizationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\editsubjectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\editsubjectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5219E68-189C-41FB-9808-494838E39C44}|University.Main\\University.Main.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.main\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A5219E68-189C-41FB-9808-494838E39C44}|University.Main\\University.Main.csproj|solutionrelative:university.main\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\university.views.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\university.views.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\bool_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\bool_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\editexamviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\editexamviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\subjectsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\subjectsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\subjectsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\subjectsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\examview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\examview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\addexamview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\addexamview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\subjectsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\subjectsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\editexamview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\editexamview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5219E68-189C-41FB-9808-494838E39C44}|University.Main\\University.Main.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.main\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5219E68-189C-41FB-9808-494838E39C44}|University.Main\\University.Main.csproj|solutionrelative:university.main\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5219E68-189C-41FB-9808-494838E39C44}|University.Main\\University.Main.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.main\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A5219E68-189C-41FB-9808-494838E39C44}|University.Main\\University.Main.csproj|solutionrelative:university.main\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\studentsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\studentsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D02E062-4CFF-4BB2-8810-E97C02CD6D7E}|University.Interfaces\\University.Interfaces.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.interfaces\\idialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D02E062-4CFF-4BB2-8810-E97C02CD6D7E}|University.Interfaces\\University.Interfaces.csproj|solutionrelative:university.interfaces\\idialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B59A83-5B2E-4C11-B6CC-A7132923231D}|University.Common\\University.Common.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.common\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B59A83-5B2E-4C11-B6CC-A7132923231D}|University.Common\\University.Common.csproj|solutionrelative:university.common\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B59A83-5B2E-4C11-B6CC-A7132923231D}|University.Common\\University.Common.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.common\\validators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B59A83-5B2E-4C11-B6CC-A7132923231D}|University.Common\\University.Common.csproj|solutionrelative:university.common\\validators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46B763E-28AA-4B17-B751-F0632F391897}|University.Controls\\University.Controls.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.controls\\listviews.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F46B763E-28AA-4B17-B751-F0632F391897}|University.Controls\\University.Controls.csproj|solutionrelative:university.controls\\listviews.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DB0AF0-846D-4811-B240-93E9F62E5B41}|University.Services\\University.Services.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.services\\dialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DB0AF0-846D-4811-B240-93E9F62E5B41}|University.Services\\University.Services.csproj|solutionrelative:university.services\\dialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\editstudentorganizationview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\editstudentorganizationview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\addsubjectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\addsubjectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5A984E-F5CD-44F1-9801-257DA744E1B6}|University.Models\\University.Models.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.models\\university.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A5A984E-F5CD-44F1-9801-257DA744E1B6}|University.Models\\University.Models.csproj|solutionrelative:university.models\\university.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\editstudentorganizationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\editstudentorganizationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46B763E-28AA-4B17-B751-F0632F391897}|University.Controls\\University.Controls.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.controls\\tabcontrols.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F46B763E-28AA-4B17-B751-F0632F391897}|University.Controls\\University.Controls.csproj|solutionrelative:university.controls\\tabcontrols.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5219E68-189C-41FB-9808-494838E39C44}|University.Main\\University.Main.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.main\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5219E68-189C-41FB-9808-494838E39C44}|University.Main\\University.Main.csproj|solutionrelative:university.main\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Main\\obj\\Debug\\net8.0-windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:University.Main\\obj\\Debug\\net8.0-windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\addathleticsfacilityview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\addathleticsfacilityview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\editathleticsfacilityview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\editathleticsfacilityview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\athleticsfacilityview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\athleticsfacilityview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C395E70E-6334-4B3D-9F37-F3C5D1BF85A9}|University.Extensions\\University.Extensions.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C395E70E-6334-4B3D-9F37-F3C5D1BF85A9}|University.Extensions\\University.Extensions.csproj|solutionrelative:university.extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C395E70E-6334-4B3D-9F37-F3C5D1BF85A9}|University.Extensions\\University.Extensions.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.extensions\\university.extensions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C395E70E-6334-4B3D-9F37-F3C5D1BF85A9}|University.Extensions\\University.Extensions.csproj|solutionrelative:university.extensions\\university.extensions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\addsubjectview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\addsubjectview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46B763E-28AA-4B17-B751-F0632F391897}|University.Controls\\University.Controls.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.controls\\textboxes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F46B763E-28AA-4B17-B751-F0632F391897}|University.Controls\\University.Controls.csproj|solutionrelative:university.controls\\textboxes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46B763E-28AA-4B17-B751-F0632F391897}|University.Controls\\University.Controls.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.controls\\textblocks.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F46B763E-28AA-4B17-B751-F0632F391897}|University.Controls\\University.Controls.csproj|solutionrelative:university.controls\\textblocks.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46B763E-28AA-4B17-B751-F0632F391897}|University.Controls\\University.Controls.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.controls\\buttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F46B763E-28AA-4B17-B751-F0632F391897}|University.Controls\\University.Controls.csproj|solutionrelative:university.controls\\buttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46B763E-28AA-4B17-B751-F0632F391897}|University.Controls\\University.Controls.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.controls\\confirmationdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F46B763E-28AA-4B17-B751-F0632F391897}|University.Controls\\University.Controls.csproj|solutionrelative:university.controls\\confirmationdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B59A83-5B2E-4C11-B6CC-A7132923231D}|University.Common\\University.Common.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.common\\dialogresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B59A83-5B2E-4C11-B6CC-A7132923231D}|University.Common\\University.Common.csproj|solutionrelative:university.common\\dialogresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\obj\\Debug\\net8.0-windows\\EditSubjectView.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:University.Views\\obj\\Debug\\net8.0-windows\\EditSubjectView.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\editsubjectview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\editsubjectview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\subjectsview.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\subjectsview.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D92B782-1580-4DC5-9370-740A07EAA3AE}|University.Tests\\University.Tests.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.tests\\university.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D92B782-1580-4DC5-9370-740A07EAA3AE}|University.Tests\\University.Tests.csproj|solutionrelative:university.tests\\university.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\university.viewmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\university.viewmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DB0AF0-846D-4811-B240-93E9F62E5B41}|University.Services\\University.Services.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.services\\university.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28DB0AF0-846D-4811-B240-93E9F62E5B41}|University.Services\\University.Services.csproj|solutionrelative:university.services\\university.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5219E68-189C-41FB-9808-494838E39C44}|University.Main\\University.Main.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.main\\university.main.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A5219E68-189C-41FB-9808-494838E39C44}|University.Main\\University.Main.csproj|solutionrelative:university.main\\university.main.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D02E062-4CFF-4BB2-8810-E97C02CD6D7E}|University.Interfaces\\University.Interfaces.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.interfaces\\university.interfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D02E062-4CFF-4BB2-8810-E97C02CD6D7E}|University.Interfaces\\University.Interfaces.csproj|solutionrelative:university.interfaces\\university.interfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E400C52-9B72-4C4D-A286-A107DDB01B0F}|University.Data\\University.Data.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.data\\university.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E400C52-9B72-4C4D-A286-A107DDB01B0F}|University.Data\\University.Data.csproj|solutionrelative:university.data\\university.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46B763E-28AA-4B17-B751-F0632F391897}|University.Controls\\University.Controls.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.controls\\university.controls.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F46B763E-28AA-4B17-B751-F0632F391897}|University.Controls\\University.Controls.csproj|solutionrelative:university.controls\\university.controls.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B59A83-5B2E-4C11-B6CC-A7132923231D}|University.Common\\University.Common.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.common\\university.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85B59A83-5B2E-4C11-B6CC-A7132923231D}|University.Common\\University.Common.csproj|solutionrelative:university.common\\university.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0421\u0422\u041E\\Documents\\Proj\\AdvancedProgramming_Student\\src\\University.Views\\EditLibraryViewl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0421\u0422\u041E\\Documents\\Proj\\AdvancedProgramming_Student\\src\\University.Views\\EditLibraryViewl.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddAthleticsFacilityViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\AddAthleticsFacilityViewModel.cs",
+              "RelativeDocumentMoniker": "University.ViewModels\\AddAthleticsFacilityViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\AddAthleticsFacilityViewModel.cs",
+              "RelativeToolTip": "University.ViewModels\\AddAthleticsFacilityViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T02:16:22.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentOrganization.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\StudentOrganization.cs",
+              "RelativeDocumentMoniker": "University.Models\\StudentOrganization.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\StudentOrganization.cs",
+              "RelativeToolTip": "University.Models\\StudentOrganization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T01:21:12.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\Subject.cs",
+              "RelativeDocumentMoniker": "University.Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\Subject.cs",
+              "RelativeToolTip": "University.Models\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:38:15.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AthleticsFacilityTest.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Tests\\AthleticsFacilityTest.cs",
+              "RelativeDocumentMoniker": "University.Tests\\AthleticsFacilityTest.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Tests\\AthleticsFacilityTest.cs",
+              "RelativeToolTip": "University.Tests\\AthleticsFacilityTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T04:49:40.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddExamViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\AddExamViewModel.cs",
+              "RelativeDocumentMoniker": "University.ViewModels\\AddExamViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\AddExamViewModel.cs",
+              "RelativeToolTip": "University.ViewModels\\AddExamViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:38:37.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExamTest.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Tests\\ExamTest.cs",
+              "RelativeDocumentMoniker": "University.Tests\\ExamTest.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Tests\\ExamTest.cs",
+              "RelativeToolTip": "University.Tests\\ExamTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:34:57.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentOrganizationTest.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Tests\\StudentOrganizationTest.cs",
+              "RelativeDocumentMoniker": "University.Tests\\StudentOrganizationTest.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Tests\\StudentOrganizationTest.cs",
+              "RelativeToolTip": "University.Tests\\StudentOrganizationTest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAD4v80AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:39:20.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsTest.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Tests\\StudentsTest.cs",
+              "RelativeDocumentMoniker": "University.Tests\\StudentsTest.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Tests\\StudentsTest.cs",
+              "RelativeToolTip": "University.Tests\\StudentsTest.cs",
+              "ViewState": "AQIAAEoAAAAAqvS9/k36v1MAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:46:35.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddStudentOrganizationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\AddStudentOrganizationViewModel.cs",
+              "RelativeDocumentMoniker": "University.ViewModels\\AddStudentOrganizationViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\AddStudentOrganizationViewModel.cs",
+              "RelativeToolTip": "University.ViewModels\\AddStudentOrganizationViewModel.cs",
+              "ViewState": "AQIAAAABAAAAAAAAAAAkwBQBAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T01:30:11.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditAthleticsFacilitysViewModels .cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\EditAthleticsFacilitysViewModels .cs",
+              "RelativeDocumentMoniker": "University.ViewModels\\EditAthleticsFacilitysViewModels .cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\EditAthleticsFacilitysViewModels .cs",
+              "RelativeToolTip": "University.ViewModels\\EditAthleticsFacilitysViewModels .cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAswEYBAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T02:17:24.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\Student.cs",
+              "RelativeDocumentMoniker": "University.Models\\Student.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\Student.cs",
+              "RelativeToolTip": "University.Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:38:15.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AthleticsFacilityView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AthleticsFacilityView.xaml",
+              "RelativeDocumentMoniker": "University.Views\\AthleticsFacilityView.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AthleticsFacilityView.xaml",
+              "RelativeToolTip": "University.Views\\AthleticsFacilityView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-15T03:07:46.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditAthleticsFacilityView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditAthleticsFacilityView.xaml",
+              "RelativeDocumentMoniker": "University.Views\\EditAthleticsFacilityView.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditAthleticsFacilityView.xaml",
+              "RelativeToolTip": "University.Views\\EditAthleticsFacilityView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-15T03:08:36.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddAthleticsFacilityView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddAthleticsFacilityView.xaml",
+              "RelativeDocumentMoniker": "University.Views\\AddAthleticsFacilityView.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddAthleticsFacilityView.xaml",
+              "RelativeToolTip": "University.Views\\AddAthleticsFacilityView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-15T03:08:05.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AthleticsFacility.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\AthleticsFacility.cs",
+              "RelativeDocumentMoniker": "University.Models\\AthleticsFacility.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\AthleticsFacility.cs",
+              "RelativeToolTip": "University.Models\\AthleticsFacility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T02:08:25.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExamView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\ExamView.xaml",
+              "RelativeDocumentMoniker": "University.Views\\ExamView.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\ExamView.xaml",
+              "RelativeToolTip": "University.Views\\ExamView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T14:03:39.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentsView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\StudentsView.xaml",
+              "RelativeDocumentMoniker": "University.Views\\StudentsView.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\StudentsView.xaml",
+              "RelativeToolTip": "University.Views\\StudentsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T15:32:16.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentOrganizationView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\StudentOrganizationView.xaml",
+              "RelativeDocumentMoniker": "University.Views\\StudentOrganizationView.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\StudentOrganizationView.xaml",
+              "RelativeToolTip": "University.Views\\StudentOrganizationView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-15T01:51:17.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SharedResources.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\SharedResources.xaml",
+              "RelativeDocumentMoniker": "University.Views\\SharedResources.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\SharedResources.xaml",
+              "RelativeToolTip": "University.Views\\SharedResources.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T15:42:51.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SearchView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\SearchView.xaml",
+              "RelativeDocumentMoniker": "University.Views\\SearchView.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\SearchView.xaml",
+              "RelativeToolTip": "University.Views\\SearchView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T15:31:02.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddStudentOrganizationView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddStudentOrganizationView.xaml",
+              "RelativeDocumentMoniker": "University.Views\\AddStudentOrganizationView.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddStudentOrganizationView.xaml",
+              "RelativeToolTip": "University.Views\\AddStudentOrganizationView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-15T01:51:57.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddStudentView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddStudentView.xaml",
+              "RelativeDocumentMoniker": "University.Views\\AddStudentView.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddStudentView.xaml",
+              "RelativeToolTip": "University.Views\\AddStudentView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T13:38:15.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EditExamView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditExamView.xaml",
+              "RelativeDocumentMoniker": "University.Views\\EditExamView.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditExamView.xaml",
+              "RelativeToolTip": "University.Views\\EditExamView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T12:32:41.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DataTemplates.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\DataTemplates.xaml",
+              "RelativeDocumentMoniker": "University.Views\\DataTemplates.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\DataTemplates.xaml",
+              "RelativeToolTip": "University.Views\\DataTemplates.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T13:38:15.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddSubjectView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddSubjectView.xaml",
+              "RelativeDocumentMoniker": "University.Views\\AddSubjectView.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddSubjectView.xaml",
+              "RelativeToolTip": "University.Views\\AddSubjectView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T20:11:01.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddExamView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddExamView.xaml",
+              "RelativeDocumentMoniker": "University.Views\\AddExamView.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddExamView.xaml",
+              "RelativeToolTip": "University.Views\\AddExamView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T12:33:34.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EditStudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\EditStudentViewModel.cs",
+              "RelativeDocumentMoniker": "University.ViewModels\\EditStudentViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\EditStudentViewModel.cs",
+              "RelativeToolTip": "University.ViewModels\\EditStudentViewModel.cs",
+              "ViewState": "AQIAANMAAAAAAAAAAAAAwB0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:18:05.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EditSubjectViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\EditSubjectViewModel.cs",
+              "RelativeDocumentMoniker": "University.ViewModels\\EditSubjectViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\EditSubjectViewModel.cs",
+              "RelativeToolTip": "University.ViewModels\\EditSubjectViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:18:48.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Main\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "University.Main\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Main\\AssemblyInfo.cs",
+              "RelativeToolTip": "University.Main\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:51:30.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EditStudentView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditStudentView.xaml",
+              "RelativeDocumentMoniker": "University.Views\\EditStudentView.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditStudentView.xaml",
+              "RelativeToolTip": "University.Views\\EditStudentView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T16:38:21.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UniversityContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Data\\UniversityContext.cs",
+              "RelativeDocumentMoniker": "University.Data\\UniversityContext.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Data\\UniversityContext.cs",
+              "RelativeToolTip": "University.Data\\UniversityContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:38:15.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "University.ViewModels\\AddStudentViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\AddStudentViewModel.cs",
+              "RelativeToolTip": "University.ViewModels\\AddStudentViewModel.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAIA0wOIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:54:39.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StudentsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\StudentsViewModel.cs",
+              "RelativeDocumentMoniker": "University.ViewModels\\StudentsViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\StudentsViewModel.cs",
+              "RelativeToolTip": "University.ViewModels\\StudentsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:40:33.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EditStudentOrganizationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\EditStudentOrganizationViewModel.cs",
+              "RelativeDocumentMoniker": "University.ViewModels\\EditStudentOrganizationViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\EditStudentOrganizationViewModel.cs",
+              "RelativeToolTip": "University.ViewModels\\EditStudentOrganizationViewModel.cs",
+              "ViewState": "AQIAADQBAAAAAAAAAAAkwFgBAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T01:40:50.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AthleticsFacilitysViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\AthleticsFacilitysViewModels.cs",
+              "RelativeDocumentMoniker": "University.ViewModels\\AthleticsFacilitysViewModels.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\AthleticsFacilitysViewModels.cs",
+              "RelativeToolTip": "University.ViewModels\\AthleticsFacilitysViewModels.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAmwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T02:12:00.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ExamViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\ExamViewModel.cs",
+              "RelativeDocumentMoniker": "University.ViewModels\\ExamViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\ExamViewModel.cs",
+              "RelativeToolTip": "University.ViewModels\\ExamViewModel.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAEwHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:38:16.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\Exam.cs",
+              "RelativeDocumentMoniker": "University.Models\\Exam.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\Exam.cs",
+              "RelativeToolTip": "University.Models\\Exam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:18:03.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StudentOrganizationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\StudentOrganizationViewModel.cs",
+              "RelativeDocumentMoniker": "University.ViewModels\\StudentOrganizationViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\StudentOrganizationViewModel.cs",
+              "RelativeToolTip": "University.ViewModels\\StudentOrganizationViewModel.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwEsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T01:38:24.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EditSubjectView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditSubjectView.xaml",
+              "RelativeDocumentMoniker": "University.Views\\EditSubjectView.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditSubjectView.xaml",
+              "RelativeToolTip": "University.Views\\EditSubjectView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T16:52:29.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Main\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "University.Main\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Main\\MainWindow.xaml",
+              "RelativeToolTip": "University.Main\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T14:11:26.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "University.ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "University.ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAwwIQAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:51:48.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "University.Views.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\University.Views.csproj",
+              "RelativeDocumentMoniker": "University.Views\\University.Views.csproj",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\University.Views.csproj",
+              "RelativeToolTip": "University.Views\\University.Views.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T13:38:15.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SearchViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\SearchViewModel.cs",
+              "RelativeDocumentMoniker": "University.ViewModels\\SearchViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\SearchViewModel.cs",
+              "RelativeToolTip": "University.ViewModels\\SearchViewModel.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:55:37.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "bool_.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\bool_.cs",
+              "RelativeDocumentMoniker": "University.ViewModels\\bool_.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\bool_.cs",
+              "RelativeToolTip": "University.ViewModels\\bool_.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:38:14.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EditExamViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\EditExamViewModel.cs",
+              "RelativeDocumentMoniker": "University.ViewModels\\EditExamViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\EditExamViewModel.cs",
+              "RelativeToolTip": "University.ViewModels\\EditExamViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABABAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:38:28.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SubjectsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\SubjectsViewModel.cs",
+              "RelativeDocumentMoniker": "University.ViewModels\\SubjectsViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\SubjectsViewModel.cs",
+              "RelativeToolTip": "University.ViewModels\\SubjectsViewModel.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAwFUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T01:45:27.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SubjectsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\SubjectsView.xaml.cs",
+              "RelativeDocumentMoniker": "University.Views\\SubjectsView.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\SubjectsView.xaml.cs",
+              "RelativeToolTip": "University.Views\\SubjectsView.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:10:44.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ExamView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\ExamView.xaml.cs",
+              "RelativeDocumentMoniker": "University.Views\\ExamView.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\ExamView.xaml.cs",
+              "RelativeToolTip": "University.Views\\ExamView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:17:58.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AddExamView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddExamView.xaml.cs",
+              "RelativeDocumentMoniker": "University.Views\\AddExamView.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddExamView.xaml.cs",
+              "RelativeToolTip": "University.Views\\AddExamView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:35:55.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SubjectsView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\SubjectsView.xaml",
+              "RelativeDocumentMoniker": "University.Views\\SubjectsView.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\SubjectsView.xaml",
+              "RelativeToolTip": "University.Views\\SubjectsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T13:24:32.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "EditExamView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditExamView.xaml.cs",
+              "RelativeDocumentMoniker": "University.Views\\EditExamView.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditExamView.xaml.cs",
+              "RelativeToolTip": "University.Views\\EditExamView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:35:56.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Main\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "University.Main\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Main\\MainWindow.xaml.cs",
+              "RelativeToolTip": "University.Main\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:19:05.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Main\\App.xaml",
+              "RelativeDocumentMoniker": "University.Main\\App.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Main\\App.xaml",
+              "RelativeToolTip": "University.Main\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T13:09:26.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "StudentsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\StudentsView.xaml.cs",
+              "RelativeDocumentMoniker": "University.Views\\StudentsView.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\StudentsView.xaml.cs",
+              "RelativeToolTip": "University.Views\\StudentsView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:45:45.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IDialogService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Interfaces\\IDialogService.cs",
+              "RelativeDocumentMoniker": "University.Interfaces\\IDialogService.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Interfaces\\IDialogService.cs",
+              "RelativeToolTip": "University.Interfaces\\IDialogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:52:45.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Common\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "University.Common\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Common\\ViewModelBase.cs",
+              "RelativeToolTip": "University.Common\\ViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:52:06.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Validators.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Common\\Validators.cs",
+              "RelativeDocumentMoniker": "University.Common\\Validators.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Common\\Validators.cs",
+              "RelativeToolTip": "University.Common\\Validators.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:52:03.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ListViews.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Controls\\ListViews.xaml",
+              "RelativeDocumentMoniker": "University.Controls\\ListViews.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Controls\\ListViews.xaml",
+              "RelativeToolTip": "University.Controls\\ListViews.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T08:37:52.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DialogService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Services\\DialogService.cs",
+              "RelativeDocumentMoniker": "University.Services\\DialogService.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Services\\DialogService.cs",
+              "RelativeToolTip": "University.Services\\DialogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:53:10.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "EditStudentOrganizationView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditStudentOrganizationView.xaml.cs",
+              "RelativeDocumentMoniker": "University.Views\\EditStudentOrganizationView.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditStudentOrganizationView.xaml.cs",
+              "RelativeToolTip": "University.Views\\EditStudentOrganizationView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:53:26.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AddSubjectViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\AddSubjectViewModel.cs",
+              "RelativeDocumentMoniker": "University.ViewModels\\AddSubjectViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\AddSubjectViewModel.cs",
+              "RelativeToolTip": "University.ViewModels\\AddSubjectViewModel.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAADwv+AAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:18:43.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "University.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\University.Models.csproj",
+              "RelativeDocumentMoniker": "University.Models\\University.Models.csproj",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\University.Models.csproj",
+              "RelativeToolTip": "University.Models\\University.Models.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T13:38:15.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "EditStudentOrganizationView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditStudentOrganizationView.xaml",
+              "RelativeDocumentMoniker": "University.Views\\EditStudentOrganizationView.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditStudentOrganizationView.xaml",
+              "RelativeToolTip": "University.Views\\EditStudentOrganizationView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-15T01:52:20.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "TabControls.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Controls\\TabControls.xaml",
+              "RelativeDocumentMoniker": "University.Controls\\TabControls.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Controls\\TabControls.xaml",
+              "RelativeToolTip": "University.Controls\\TabControls.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T08:37:47.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Main\\App.xaml.cs",
+              "RelativeDocumentMoniker": "University.Main\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Main\\App.xaml.cs",
+              "RelativeToolTip": "University.Main\\App.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwCQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:36:51.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Main\\obj\\Debug\\net8.0-windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "University.Main\\obj\\Debug\\net8.0-windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Main\\obj\\Debug\\net8.0-windows\\App.g.i.cs",
+              "RelativeToolTip": "University.Main\\obj\\Debug\\net8.0-windows\\App.g.i.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAkwEwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:37:06.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "AddAthleticsFacilityView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddAthleticsFacilityView.xaml.cs",
+              "RelativeDocumentMoniker": "University.Views\\AddAthleticsFacilityView.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddAthleticsFacilityView.xaml.cs",
+              "RelativeToolTip": "University.Views\\AddAthleticsFacilityView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T03:13:16.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "EditAthleticsFacilityView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditAthleticsFacilityView.xaml.cs",
+              "RelativeDocumentMoniker": "University.Views\\EditAthleticsFacilityView.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditAthleticsFacilityView.xaml.cs",
+              "RelativeToolTip": "University.Views\\EditAthleticsFacilityView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T03:14:22.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "AthleticsFacilityView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AthleticsFacilityView.xaml.cs",
+              "RelativeDocumentMoniker": "University.Views\\AthleticsFacilityView.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AthleticsFacilityView.xaml.cs",
+              "RelativeToolTip": "University.Views\\AthleticsFacilityView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T03:08:44.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "University.Extensions\\StringExtensions.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "University.Extensions\\StringExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:52:39.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "EditLibraryViewl.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Documents\\Proj\\AdvancedProgramming_Student\\src\\University.Views\\EditLibraryViewl.xaml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Documents\\Proj\\AdvancedProgramming_Student\\src\\University.Views\\EditLibraryViewl.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Documents\\Proj\\AdvancedProgramming_Student\\src\\University.Views\\EditLibraryViewl.xaml",
+              "RelativeToolTip": "..\\..\\..\\..\\Documents\\Proj\\AdvancedProgramming_Student\\src\\University.Views\\EditLibraryViewl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-15T00:50:14.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "EditLibraryViewl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Documents\\Proj\\AdvancedProgramming_Student\\src\\University.Views\\EditLibraryViewl.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Documents\\Proj\\AdvancedProgramming_Student\\src\\University.Views\\EditLibraryViewl.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Documents\\Proj\\AdvancedProgramming_Student\\src\\University.Views\\EditLibraryViewl.xaml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Documents\\Proj\\AdvancedProgramming_Student\\src\\University.Views\\EditLibraryViewl.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T00:50:14.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "AddSubjectView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddSubjectView.xaml.cs",
+              "RelativeDocumentMoniker": "University.Views\\AddSubjectView.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddSubjectView.xaml.cs",
+              "RelativeToolTip": "University.Views\\AddSubjectView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:53:04.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "University.Extensions.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Extensions\\University.Extensions.csproj",
+              "RelativeDocumentMoniker": "University.Extensions\\University.Extensions.csproj",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Extensions\\University.Extensions.csproj",
+              "RelativeToolTip": "University.Extensions\\University.Extensions.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T13:38:15.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "SubjectsView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\SubjectsView.xaml",
+              "RelativeDocumentMoniker": "University.Views\\SubjectsView.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\SubjectsView.xaml",
+              "RelativeToolTip": "University.Views\\SubjectsView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T15:34:04.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "University.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Tests\\University.Tests.csproj",
+              "RelativeDocumentMoniker": "University.Tests\\University.Tests.csproj",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Tests\\University.Tests.csproj",
+              "RelativeToolTip": "University.Tests\\University.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T13:38:15.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "TextBoxes.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Controls\\TextBoxes.xaml",
+              "RelativeDocumentMoniker": "University.Controls\\TextBoxes.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Controls\\TextBoxes.xaml",
+              "RelativeToolTip": "University.Controls\\TextBoxes.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T19:52:30.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "TextBlocks.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Controls\\TextBlocks.xaml",
+              "RelativeDocumentMoniker": "University.Controls\\TextBlocks.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Controls\\TextBlocks.xaml",
+              "RelativeToolTip": "University.Controls\\TextBlocks.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T19:52:29.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Buttons.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Controls\\Buttons.xaml",
+              "RelativeDocumentMoniker": "University.Controls\\Buttons.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Controls\\Buttons.xaml",
+              "RelativeToolTip": "University.Controls\\Buttons.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T19:52:16.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ConfirmationDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Controls\\ConfirmationDialog.xaml",
+              "RelativeDocumentMoniker": "University.Controls\\ConfirmationDialog.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Controls\\ConfirmationDialog.xaml",
+              "RelativeToolTip": "University.Controls\\ConfirmationDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T19:52:17.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "DialogResult.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Common\\DialogResult.cs",
+              "RelativeDocumentMoniker": "University.Common\\DialogResult.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Common\\DialogResult.cs",
+              "RelativeToolTip": "University.Common\\DialogResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:52:04.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "EditSubjectView.g.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\obj\\Debug\\net8.0-windows\\EditSubjectView.g.cs",
+              "RelativeDocumentMoniker": "University.Views\\obj\\Debug\\net8.0-windows\\EditSubjectView.g.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\obj\\Debug\\net8.0-windows\\EditSubjectView.g.cs",
+              "RelativeToolTip": "University.Views\\obj\\Debug\\net8.0-windows\\EditSubjectView.g.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAewDoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:06:14.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "EditSubjectView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditSubjectView.xaml.cs",
+              "RelativeDocumentMoniker": "University.Views\\EditSubjectView.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditSubjectView.xaml.cs",
+              "RelativeToolTip": "University.Views\\EditSubjectView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:06:22.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Microsoft.NET.Sdk.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "ViewState": "AQIAAA0BAAAAAAAAAIAwwCABAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-14T13:47:09.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "University.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Services\\University.Services.csproj",
+              "RelativeDocumentMoniker": "University.Services\\University.Services.csproj",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Services\\University.Services.csproj",
+              "RelativeToolTip": "University.Services\\University.Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T13:38:15.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "University.Main.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Main\\University.Main.csproj",
+              "RelativeDocumentMoniker": "University.Main\\University.Main.csproj",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Main\\University.Main.csproj",
+              "RelativeToolTip": "University.Main\\University.Main.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T13:38:15.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "University.Interfaces.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Interfaces\\University.Interfaces.csproj",
+              "RelativeDocumentMoniker": "University.Interfaces\\University.Interfaces.csproj",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Interfaces\\University.Interfaces.csproj",
+              "RelativeToolTip": "University.Interfaces\\University.Interfaces.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T13:38:15.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "University.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Data\\University.Data.csproj",
+              "RelativeDocumentMoniker": "University.Data\\University.Data.csproj",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Data\\University.Data.csproj",
+              "RelativeToolTip": "University.Data\\University.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T13:38:15.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "University.ViewModels.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\University.ViewModels.csproj",
+              "RelativeDocumentMoniker": "University.ViewModels\\University.ViewModels.csproj",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\University.ViewModels.csproj",
+              "RelativeToolTip": "University.ViewModels\\University.ViewModels.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T13:38:15.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "University.Controls.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Controls\\University.Controls.csproj",
+              "RelativeDocumentMoniker": "University.Controls\\University.Controls.csproj",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Controls\\University.Controls.csproj",
+              "RelativeToolTip": "University.Controls\\University.Controls.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T13:38:15.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "University.Common.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Common\\University.Common.csproj",
+              "RelativeDocumentMoniker": "University.Common\\University.Common.csproj",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Common\\University.Common.csproj",
+              "RelativeToolTip": "University.Common\\University.Common.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T13:38:15.748Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

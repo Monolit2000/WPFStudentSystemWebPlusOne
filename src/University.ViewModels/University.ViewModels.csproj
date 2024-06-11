@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="LibrarysSub\**" />
+    <EmbeddedResource Remove="LibrarysSub\**" />
+    <None Remove="LibrarysSub\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.0-preview2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\University.Data\University.Data.csproj" />
+    <ProjectReference Include="..\University.Extensions\University.Extensions.csproj" />
+    <ProjectReference Include="..\University.Interfaces\University.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>
