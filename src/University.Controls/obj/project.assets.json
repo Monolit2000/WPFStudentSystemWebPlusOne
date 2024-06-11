@@ -2638,11 +2638,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#_WORK\\AStudent-Pack2\\src\\University.Controls\\University.Controls.csproj",
+      "projectUniqueName": "E:\\C#_WORK\\AWPFgitStudent\\WPFStudentSystemWebPlusOne\\src\\University.Controls\\University.Controls.csproj",
       "projectName": "University.Controls",
-      "projectPath": "E:\\C#_WORK\\AStudent-Pack2\\src\\University.Controls\\University.Controls.csproj",
+      "projectPath": "E:\\C#_WORK\\AWPFgitStudent\\WPFStudentSystemWebPlusOne\\src\\University.Controls\\University.Controls.csproj",
       "packagesPath": "C:\\Users\\Andry\\.nuget\\packages\\",
-      "outputPath": "E:\\C#_WORK\\AStudent-Pack2\\src\\University.Controls\\obj\\",
+      "outputPath": "E:\\C#_WORK\\AWPFgitStudent\\WPFStudentSystemWebPlusOne\\src\\University.Controls\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Download_BASE\\Visual Studio_SDK\\NuGetPackages"
@@ -2664,8 +2664,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "E:\\C#_WORK\\AStudent-Pack2\\src\\University.ViewModels\\University.ViewModels.csproj": {
-              "projectPath": "E:\\C#_WORK\\AStudent-Pack2\\src\\University.ViewModels\\University.ViewModels.csproj"
+            "E:\\C#_WORK\\AWPFgitStudent\\WPFStudentSystemWebPlusOne\\src\\University.ViewModels\\University.ViewModels.csproj": {
+              "projectPath": "E:\\C#_WORK\\AWPFgitStudent\\WPFStudentSystemWebPlusOne\\src\\University.ViewModels\\University.ViewModels.csproj"
             }
           }
         }

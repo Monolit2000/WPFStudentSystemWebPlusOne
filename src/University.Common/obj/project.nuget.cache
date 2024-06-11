@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TVxfdv0WVCHnFO1XhJjfXZgEemwJLG4IIoevriEnhUid4E4CiuUuwaKuawrKr2bXPIdVlcVaOfFyXqyMIlGuTA==",
+  "dgSpecHash": "XK3aXypyvPB+lf7MqzvKYZQLQO2onRCa0h4X88oRsh/tSH6a0/KYAYZWjd+C6aR1hBWplsqE/JvrXR+7GsiS7Q==",
   "success": true,
-  "projectFilePath": "E:\\C#_WORK\\AStudent-Pack2\\src\\University.Common\\University.Common.csproj",
+  "projectFilePath": "E:\\C#_WORK\\AWPFgitStudent\\WPFStudentSystemWebPlusOne\\src\\University.Common\\University.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andry\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Andry\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

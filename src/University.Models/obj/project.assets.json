@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#_WORK\\AStudent-Pack2\\src\\University.Models\\University.Models.csproj",
+      "projectUniqueName": "E:\\C#_WORK\\AWPFgitStudent\\WPFStudentSystemWebPlusOne\\src\\University.Models\\University.Models.csproj",
       "projectName": "University.Models",
-      "projectPath": "E:\\C#_WORK\\AStudent-Pack2\\src\\University.Models\\University.Models.csproj",
+      "projectPath": "E:\\C#_WORK\\AWPFgitStudent\\WPFStudentSystemWebPlusOne\\src\\University.Models\\University.Models.csproj",
       "packagesPath": "C:\\Users\\Andry\\.nuget\\packages\\",
-      "outputPath": "E:\\C#_WORK\\AStudent-Pack2\\src\\University.Models\\obj\\",
+      "outputPath": "E:\\C#_WORK\\AWPFgitStudent\\WPFStudentSystemWebPlusOne\\src\\University.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Download_BASE\\Visual Studio_SDK\\NuGetPackages"

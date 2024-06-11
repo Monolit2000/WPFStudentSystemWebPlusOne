@@ -57,3 +57,15 @@ E:\C#_WORK\AStudent-Pack2\src\University.Extensions\obj\Debug\net8.0\University.
 E:\C#_WORK\AStudent-Pack2\src\University.Extensions\obj\Debug\net8.0\refint\University.Extensions.dll
 E:\C#_WORK\AStudent-Pack2\src\University.Extensions\obj\Debug\net8.0\University.Extensions.pdb
 E:\C#_WORK\AStudent-Pack2\src\University.Extensions\obj\Debug\net8.0\ref\University.Extensions.dll
+E:\C#_WORK\AWPFgitStudent\WPFStudentSystemWebPlusOne\src\University.Extensions\bin\Debug\net8.0\University.Extensions.deps.json
+E:\C#_WORK\AWPFgitStudent\WPFStudentSystemWebPlusOne\src\University.Extensions\bin\Debug\net8.0\University.Extensions.dll
+E:\C#_WORK\AWPFgitStudent\WPFStudentSystemWebPlusOne\src\University.Extensions\bin\Debug\net8.0\University.Extensions.pdb
+E:\C#_WORK\AWPFgitStudent\WPFStudentSystemWebPlusOne\src\University.Extensions\obj\Debug\net8.0\University.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_WORK\AWPFgitStudent\WPFStudentSystemWebPlusOne\src\University.Extensions\obj\Debug\net8.0\University.Extensions.AssemblyInfoInputs.cache
+E:\C#_WORK\AWPFgitStudent\WPFStudentSystemWebPlusOne\src\University.Extensions\obj\Debug\net8.0\University.Extensions.AssemblyInfo.cs
+E:\C#_WORK\AWPFgitStudent\WPFStudentSystemWebPlusOne\src\University.Extensions\obj\Debug\net8.0\University.Extensions.csproj.CoreCompileInputs.cache
+E:\C#_WORK\AWPFgitStudent\WPFStudentSystemWebPlusOne\src\University.Extensions\obj\Debug\net8.0\University.Extensions.sourcelink.json
+E:\C#_WORK\AWPFgitStudent\WPFStudentSystemWebPlusOne\src\University.Extensions\obj\Debug\net8.0\University.Extensions.dll
+E:\C#_WORK\AWPFgitStudent\WPFStudentSystemWebPlusOne\src\University.Extensions\obj\Debug\net8.0\refint\University.Extensions.dll
+E:\C#_WORK\AWPFgitStudent\WPFStudentSystemWebPlusOne\src\University.Extensions\obj\Debug\net8.0\University.Extensions.pdb
+E:\C#_WORK\AWPFgitStudent\WPFStudentSystemWebPlusOne\src\University.Extensions\obj\Debug\net8.0\ref\University.Extensions.dll

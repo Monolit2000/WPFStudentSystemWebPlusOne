@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lrSBelddozyz+UbgEGqQueHPqKaXqLhvlKEs8a6y1l8w+jGBRb21cGCoukDukOCwpuUDLxJuxgyi0eDhfoMXLQ==",
+  "dgSpecHash": "vGgLfhK2sgRf0TZD9i0dNHsytliY+dkMP8LIGwN5YF0oj1z+utJIP0OE9yh1XoqTnUjH8EqpCj0Ilud1yamRgQ==",
   "success": true,
-  "projectFilePath": "E:\\C#_WORK\\AStudent-Pack2\\src\\University.Extensions\\University.Extensions.csproj",
+  "projectFilePath": "E:\\C#_WORK\\AWPFgitStudent\\WPFStudentSystemWebPlusOne\\src\\University.Extensions\\University.Extensions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

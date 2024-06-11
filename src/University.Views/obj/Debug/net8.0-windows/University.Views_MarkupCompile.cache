@@ -4,7 +4,7 @@
 library
 C#
 .cs
-E:\C#_WORK\AStudent-Pack2\src\University.Views\obj\Debug\net8.0-windows\
+E:\C#_WORK\AWPFgitStudent\WPFStudentSystemWebPlusOne\src\University.Views\obj\Debug\net8.0-windows\
 University.Views
 none
 false
@@ -13,7 +13,7 @@ TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 181001805737
 
 16880337965
-245-1103206137
+245-502843863
 AddClassroomView.xaml;AddLibraryView.xaml;AddStudentOrganizationView.xaml;AddStudentView.xaml;AddSubjectView.xaml;ClassroomView.xaml;DataTemplates.xaml;EditClassroomView.xaml;EditLibraryView.xaml;EditStudentOrganizationView.xaml;EditStudentView.xaml;EditSubjectView.xaml;LibraryView.xaml;SearchView.xaml;SharedResources.xaml;StudentOrganizationView.xaml;StudentsView.xaml;SubjectsView.xaml;
 
 False

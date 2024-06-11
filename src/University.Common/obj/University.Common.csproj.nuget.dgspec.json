@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#_WORK\\AStudent-Pack2\\src\\University.Common\\University.Common.csproj": {}
+    "E:\\C#_WORK\\AWPFgitStudent\\WPFStudentSystemWebPlusOne\\src\\University.Common\\University.Common.csproj": {}
   },
   "projects": {
-    "E:\\C#_WORK\\AStudent-Pack2\\src\\University.Common\\University.Common.csproj": {
+    "E:\\C#_WORK\\AWPFgitStudent\\WPFStudentSystemWebPlusOne\\src\\University.Common\\University.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#_WORK\\AStudent-Pack2\\src\\University.Common\\University.Common.csproj",
+        "projectUniqueName": "E:\\C#_WORK\\AWPFgitStudent\\WPFStudentSystemWebPlusOne\\src\\University.Common\\University.Common.csproj",
         "projectName": "University.Common",
-        "projectPath": "E:\\C#_WORK\\AStudent-Pack2\\src\\University.Common\\University.Common.csproj",
+        "projectPath": "E:\\C#_WORK\\AWPFgitStudent\\WPFStudentSystemWebPlusOne\\src\\University.Common\\University.Common.csproj",
         "packagesPath": "C:\\Users\\Andry\\.nuget\\packages\\",
-        "outputPath": "E:\\C#_WORK\\AStudent-Pack2\\src\\University.Common\\obj\\",
+        "outputPath": "E:\\C#_WORK\\AWPFgitStudent\\WPFStudentSystemWebPlusOne\\src\\University.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Download_BASE\\Visual Studio_SDK\\NuGetPackages"
