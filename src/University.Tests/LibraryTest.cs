@@ -68,6 +68,8 @@ namespace University.Tests
             }
         }
 
+  
+
 
         [TestMethod]
         public void Add_library_without_name()
@@ -89,6 +91,31 @@ namespace University.Tests
                 Assert.IsFalse(newLibraryExists);
             }
         }
+
+
+        [TestMethod]
+        public void Add_library_with_name()
+        {
+            using UniversityContext context = new UniversityContext(_options);
+            {
+                AddLibraryViewModel addLibraryViewModel = new AddLibraryViewModel(context, _dialogService)
+                {
+                    Name = "New Library",
+                    Address = "New Address",
+                    NumberOfFloors = 2,
+                    NumberOfRooms = 5,
+                    Description = "New Description",
+                    Librarian = "New Librarian"
+                };
+
+                addLibraryViewModel.Save.Execute(null);
+                bool newLibraryExists = context.Librarys.Any(l => l.Name == "New Library" && l.Address == "New Address");
+                Assert.IsTrue(newLibraryExists);
+            }
+        }
+
+ 
+
 
         [TestMethod]
         public void Add_library_without_floors()
@@ -168,6 +195,30 @@ namespace University.Tests
         }
 
         [TestMethod]
+        public void Edit_library_with_name()
+        {
+            using UniversityContext context = new UniversityContext(_options);
+            {
+                EditLibraryViewModel editLibraryViewModel = new EditLibraryViewModel(context, _dialogService)
+                {
+                    LibraryId = 1,
+                    Name = "Updated Library One",
+                    Address = "Updated Address A",
+                    NumberOfFloors = 4,
+                    NumberOfRooms = 12,
+                    Description = "Updated Description A",
+                    Librarian = "Updated Librarian A"
+                };
+                editLibraryViewModel.Save.Execute(null);
+
+                var updatedLibrary = context.Librarys.FirstOrDefault(l => l.LibraryId == 1);
+
+                Assert.IsNotNull(updatedLibrary);
+                Assert.AreEqual("Updated Library One", updatedLibrary.Name);
+            }
+        }
+
+        [TestMethod]
         public void Edit_library_without_address()
         {
             using UniversityContext context = new UniversityContext(_options);
@@ -216,5 +267,61 @@ namespace University.Tests
 
         #endregion
 
+        #region Remuve
+
+        [TestMethod]
+        public void Remove_library_with_confirmation()
+        {
+            using UniversityContext context = new UniversityContext(_options);
+            {
+                var initialCount = context.Librarys.Count();
+                var dialogService = new TestDialogService(true);
+                var viewModel = new LibraryViewModel(context, dialogService);
+
+                viewModel.Remove.Execute((long)1);
+
+                var libraryExists = context.Librarys.Any(l => l.LibraryId == 1);
+                Assert.IsFalse(libraryExists);
+                Assert.AreEqual(initialCount - 1, context.Librarys.Count());
+            }
+        }
+
+        [TestMethod]
+        public void Remove_library_without_confirmation()
+        {
+            using UniversityContext context = new UniversityContext(_options);
+            {
+                var initialCount = context.Librarys.Count();
+                var dialogService = new TestDialogService(false);
+                var viewModel = new LibraryViewModel(context, dialogService);
+
+                viewModel.Remove.Execute((long)1);
+
+                var libraryExists = context.Librarys.Any(l => l.LibraryId == 1);
+                Assert.IsTrue(libraryExists);
+                Assert.AreEqual(initialCount, context.Librarys.Count());
+            }
+        }
+
+        [TestMethod]
+        public void Remove_nonexistent_library()
+        {
+            using UniversityContext context = new UniversityContext(_options);
+            {
+                var initialCount = context.Librarys.Count();
+                var dialogService = new TestDialogService(true);
+                var viewModel = new LibraryViewModel(context, dialogService);
+
+                viewModel.Remove.Execute((long)9999);
+
+                var libraryExists = context.Librarys.Any(l => l.LibraryId == 9999);
+                Assert.IsFalse(libraryExists);
+                Assert.AreEqual(initialCount, context.Librarys.Count());
+            }
+        }
+
+
+
+        #endregion
     }
 }

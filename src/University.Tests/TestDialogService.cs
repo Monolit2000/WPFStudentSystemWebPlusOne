@@ -20,8 +20,5 @@ namespace University.Tests
         {
             return _dialogResult;
         }
-
-     
     }
-
 }
